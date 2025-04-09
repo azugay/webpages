@@ -1,0 +1,22 @@
+/*
+ *Name: [Austin Zugay]
+ *UnityID: [azugay]
+ *Date: [4/8/2025]
+ *Assignment: [Guided Lab 4]
+ *Description: [Guided Lab Assignment, about me webpage]
+ */
+ 
+p {
+    font-family: Times;
+	font-size: 16px;
+	color: #DECAFF;
+}
+
+.table-border {
+    border: 1px solide #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px
+}
